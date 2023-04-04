@@ -1,1 +1,1 @@
-# student placement predictor
+# Student Placement Predictor
